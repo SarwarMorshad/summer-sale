@@ -52,3 +52,5 @@ products.forEach((product) => {
     purchaseButton.disabled = false;
   });
 });
+
+const modalHandle = () => {};
