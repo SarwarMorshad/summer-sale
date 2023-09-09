@@ -53,4 +53,4 @@ products.forEach((product) => {
   });
 });
 
-const modalHandle = () => {};
+// const modalHandle = () => {};
